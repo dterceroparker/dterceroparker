@@ -6,7 +6,7 @@
 
 ---
 
-### Stats
+### Statistics
 ![Doribel's Stats](https://github-readme-stats.vercel.app/api?username=dterceroparker&show_icons=true&theme=transparent) <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dterceroparker&layout=compact&theme=dark) <br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dterceroparker&theme=dark&border=555555&mode=daily)](https://git.io/streak-stats)
