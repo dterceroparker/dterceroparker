@@ -1,6 +1,13 @@
-## Hi there, I'm Doribel 
+## Welcome ✨ I'm Doribel! 
 
-[![Doribel's GitHub stats](https://github-readme-stats.vercel.app/apidterceroparker=doribel)](https://github.com/dterceroparker/github-readme-stats)
+
+
+![Doribel Tercero - Parker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dterceroparker&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dterceroparker&theme=tokyonight)
+
+
+
 
 <!--
 **dterceroparker/dterceroparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
