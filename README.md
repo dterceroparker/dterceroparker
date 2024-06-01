@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Doribel 
+
+[![Doribel's GitHub stats](https://github-readme-stats.vercel.app/apidterceroparker=doribel)](https://github.com/dterceroparker/github-readme-stats)
 
 <!--
 **dterceroparker/dterceroparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
