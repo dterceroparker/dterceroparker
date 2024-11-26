@@ -9,7 +9,6 @@
 ### Statistics
 ![Doribel's Stats](https://github-readme-stats.vercel.app/api?username=dterceroparker&show=prs_merged,prs_merged_percentage_icons=true&theme=transparent) <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dterceroparker&layout=compact&theme=transparent) <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dterceroparker&theme=transparent&border=555555&mode=daily)](https://git.io/streak-stats)
 
 ---
 
